@@ -18,7 +18,7 @@
  [clean] Descriptin of changes
  
  RELEASE :
- [release] Description of release 
+ [release] Description of release
  */
 import SwiftUI
 
