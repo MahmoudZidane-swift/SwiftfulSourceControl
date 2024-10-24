@@ -34,9 +34,6 @@ struct HomeView: View {
             Text("Hello, World 2")
             Text("Hello, World 3")
 
-            Button("Supscribe"){
-                
-            }
         }
             .font(.title2)
     }
