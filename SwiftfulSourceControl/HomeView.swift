@@ -38,6 +38,7 @@ struct HomeView: View {
             Text("Hello, World 3")
             
             Rectangle()
+            Rectangle()
         }
             .font(.title2)
     }
