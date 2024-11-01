@@ -16,6 +16,9 @@ struct ContentView: View {
             Text("Hello, world!")
                 .font(.largeTitle)
                 .foregroundStyle(.tint)
+            Text("Hello, world!")
+                .font(.largeTitle)
+                .foregroundStyle(.tint)
             Button("Click me"){
                 
             }
