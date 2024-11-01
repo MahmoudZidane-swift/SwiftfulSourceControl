@@ -32,10 +32,12 @@ struct HomeView: View {
     var body: some View {
         
         VStack{
+            Text("Hi")
             Text("Hello, World 1")
             Text("Hello, World 2")
             Text("Hello, World 3")
-
+            
+            Rectangle()
         }
             .font(.title2)
     }
