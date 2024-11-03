@@ -46,6 +46,7 @@ struct HomeView: View {
             
             Rectangle()
             Rectangle()
+            Rectangle()
         }
             .font(.title2)
     }
