@@ -41,7 +41,7 @@ struct HomeView: View {
         VStack{
             Text("Hi")
             Text("Hello, World 1")
-            Text("Hello, World 2")
+            Text("Hello, now!")
             Text("Hello, World 3")
             
             Rectangle()
