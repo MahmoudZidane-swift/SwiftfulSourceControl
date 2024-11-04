@@ -10,20 +10,13 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "bolt.fill")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello,!")
-                .font(.largeTitle)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-                .font(.largeTitle)
-                .foregroundStyle(.tint)
-            Button("Click me"){
-            
+            ScrollView{
+                VStack{
+                    ForEach(0..<20){ _ in
+                        Text("Yo!")
+                    }
+                }
              }
-            
-            .background(Color.red)
         }
         .padding()
     }
