@@ -34,23 +34,19 @@
 import SwiftUI
 
 struct HomeView: View {
-    @State private var title: String = ""
+    @State private var title: String = "Helloç"
 
     var body: some View {
         
         VStack{
             Text("Hi")
             Text("Hello, World 1")
-            Text("Hello, now!")
-            Text("Hello, World 3")
-            
+
             Rectangle()
             Rectangle()
             Rectangle()
         }
-        .onAppear{
-            //send analytics
-        }
+
             .font(.title2)
     }
 }
