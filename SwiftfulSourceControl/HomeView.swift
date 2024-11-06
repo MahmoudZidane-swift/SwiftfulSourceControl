@@ -46,9 +46,7 @@ struct HomeView: View {
             Rectangle()
             Rectangle()
         }
-        .onAppear{
-            //send analytics
-        }
+
             .font(.title2)
     }
 }
