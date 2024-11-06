@@ -16,7 +16,11 @@ struct ContentView: View {
                         Image(systemName: "magnifyingglass")
                             .imageScale(.large)
                             .foregroundStyle(.tint)
+<<<<<<< HEAD
                         Text("Some new title hello!")
+=======
+                        Text("Some new title!!")
+>>>>>>> 00ae3dc ([Feature] Fix one)
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
                         Text("Hello!")
