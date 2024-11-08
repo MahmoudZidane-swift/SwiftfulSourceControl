@@ -17,12 +17,13 @@ struct ContentView: View {
                             .imageScale(.large)
                             .foregroundStyle(.tint)
                         Text("Some new title hello!")
+                        Text("Some new title!!")
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
                         Text("Hello!")
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
-                        Button("Click me"){
+                        Button("Subscribe now"){
                             
                         }
                     }
