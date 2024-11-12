@@ -15,8 +15,10 @@
  Marge = Joining tow different bransh
  Rebase = Moving one branch on top of another bransh
  Cherry Picking = Dublicating (copying) one commit from one bransh to another
- Commit massage
+ Pull Request (PR): Request to marge bransh
  
+ Commit massage
+
  NEW FEATURE :
  [feature] Description of the feature
  
