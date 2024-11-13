@@ -20,10 +20,10 @@ struct ContentView: View {
                         Text("Some new title!!")
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
-                        Text("Hello!")
+                        Text("Helloo !")
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
-                        Button("Subscribe now"){
+                        Button("Subscribe"){
                             
                         }
                     }
