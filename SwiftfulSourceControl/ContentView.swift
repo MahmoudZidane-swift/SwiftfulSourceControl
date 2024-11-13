@@ -23,7 +23,7 @@ struct ContentView: View {
                         Text("Hello!")
                             .font(.largeTitle)
                             .foregroundStyle(.tint)
-                        Button("Subscribe now"){
+                        Button("Subscribe"){
                             
                         }
                     }
