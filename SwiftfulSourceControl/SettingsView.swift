@@ -8,9 +8,9 @@
 import SwiftUI
 
 struct SettingsView: View {
-    @State private var doSometThing : Bool = false
+    @State private var doSometThing : Bool = true
     var body: some View {
-        Text("Settings View!")
+        Text("Settings")
     }
 }
 
