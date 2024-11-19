@@ -1,0 +1,64 @@
+# User-specific files
+*.swp
+*.swo
+*.dat
+*.pyc
+*.pyo
+
+# User-specific non-project files
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata
+
+# Build generated files
+build/
+DerivedData/
+
+# iOS specific files
+*.ipa
+*.xcuserstate
+
+# Swift Package Manager
+# Add this if you have a Package.swift file for SPM
+.build/
+.swiftpm/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/test_output/screenshots
+
+# macOS specific files
+*.DS_Store
+
+# Xcode automatically generated files
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift PM
+.swiftpm/xcode
+
+# Xcode backups
+*.xcuserstate
+*.xcworkspace/xcuserdata
+
+# Other files
+.idea/
+.vscode/
+*.log
+*.tmp
