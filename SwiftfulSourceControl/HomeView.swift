@@ -18,6 +18,11 @@
  Pull Request (PR): Request to marge bransh
  PR Marge = Marge all commits
  PR Squash and marge = Squash all commits into one and then marge one commit
+ Protecting Branches
+ CODEOWNERS
+ GitIgnore
+ README
+ Releases , Tages , Versioning 
  
  Commit massage
 
