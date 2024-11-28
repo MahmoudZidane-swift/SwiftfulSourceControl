@@ -16,6 +16,7 @@ struct ProfileView: View {
         Text("Profile View!")
             .onAppear{
                 // do something
+
             }
     }
 }
